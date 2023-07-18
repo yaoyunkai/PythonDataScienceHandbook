@@ -1,0 +1,2 @@
+conda activate PDSH
+jupyter notebook --notebook-dir=D:\Projects\Code\Python
